@@ -26,21 +26,27 @@ According to the provided specifications the variance of the suspension coils sh
 
 ## T-Tests on Suspension Coils
 **Suspension Coil T-test**
+
 Across all manufacturing lots, we can see that there is no significant difference from the population mean. We fail to reject the null hypothesis
 
 ![One_sample_ttest](https://user-images.githubusercontent.com/22451540/162809205-801afa80-eb8c-4b89-bc70-46e2c45b6ae9.PNG)
 
 **Suspension Coil for Lot 1**
+
 Looking individually at lot 1, it is NOT statitically different from the population mean. Failing again to reject the null hypothesis.
 
 ![Lot1](https://user-images.githubusercontent.com/22451540/162809547-b390386b-b6db-421e-8d90-9b210309112c.PNG)
 
 **Suspension Coil for Lot 2**
+
 Looking individually at lot 2, it is NOT statistically different from the population mean. Failing to reject the null hypothesis
+
 ![Lot2](https://user-images.githubusercontent.com/22451540/162809776-351e0f47-34b4-4e32-b888-1554782324ab.PNG)
 
 **Suspension Coil for Lot 3**
+
 Looking individually at lot 3, it IS statistically different from the population mean. With this information, we reject the null hypothesis
+
 ![Lot3](https://user-images.githubusercontent.com/22451540/162810129-3eb2e800-7776-4a04-bb9b-4d3935d146a7.PNG)
 
 
