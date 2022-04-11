@@ -49,5 +49,17 @@ Looking individually at lot 3, it IS statistically different from the population
 
 ![Lot3](https://user-images.githubusercontent.com/22451540/162810129-3eb2e800-7776-4a04-bb9b-4d3935d146a7.PNG)
 
+## Study Design: MechaCar vs Comptition
+With the current (however impending) surge in gas prices, customers are constantly comparing among manufacturers to find a vehicle that is equally reliable, secure and efficient.
+- Metric to test
+As a first step, we could evaluate MecaCars safety ratings in comparison to those of the competition.
 
+- Hypothesis
+**Null:** MechaCar average safety ratings is simila to the competition
+**Alternative:** MechaCar average safety ratings is statistically different from the competition
 
+- Statistical Test
+Given the aforementioned premises, we would use a two-sample t-test.
+
+- Data needed
+We would gather safety ratings for the MechaCar prototypes as well as from all the major competitors.
