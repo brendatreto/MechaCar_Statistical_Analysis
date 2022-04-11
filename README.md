@@ -13,3 +13,13 @@ The slope is not considered zero. The p-value (5.35e-11) is smaller than the sig
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 We can confidently say that this model can predict mpg of protoypes. Using the r-squared as reference (0.7149), it can be inferred that there is a 71.49% chance that future prototypes will fit the model. 
+
+## Summary Statistics on Suspension Coils
+
+![total_summary](https://user-images.githubusercontent.com/22451540/162798001-14c76af4-25fc-4598-a178-c08ce5901e97.PNG)
+
+![lot_summary](https://user-images.githubusercontent.com/22451540/162798094-5645a6e7-1c6e-449f-9a9c-ebf41f12c305.PNG)
+
+According to the provided specifications the variance of the suspension coils should not exceed 100 pounds per square inch.
+- In total the current manufacturing data meets these specifications with a variance of 62.29.
+- Individually lots 1 (0.979) and 2 (7.46) do meet the criteria but lot 3 (170.28) does not.
